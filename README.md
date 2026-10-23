@@ -134,7 +134,7 @@ A community-maintained directory of **Better LGU** digital transparency portals 
 | Morong, Rizal | [bettermorong.org](https://bettermorong.org/) | [GitHub](https://github.com/carlodandan/bettermorong) | [Facebook](https://facebook.com/bettermorong.org) | 🟢 Active | [@carlodandan](https://github.com/carlodandan) |
 | Aleosan, Cotabato | - | - | - | 🔵 Planned | [@regzimarx](https://github.com/regzimarx) |
 | Marawi City, Lanao del Sur       | -                                                             | [GitHub](https://github.com/mamangcao/bettermarawi)                    | [Facebook](https://facebook.com/bettermarawi.org)                                                                          | 🔵 Planned             | [@mamangcao](https://github.com/mamangcao)                                                                               |
-| Hermosa, Bataan | [betterhermosa.ialexies.workers.dev](https://betterhermosa.ialexies.workers.dev) | [GitHub](https://github.com/BetterHermosa/betterhermosa) | - | 🟡 Work in Progress | [@ialexies](https://github.com/ialexies) |
+| Hermosa, Bataan | [betterhermosa.org](https://betterhermosa.org) | [GitHub](https://github.com/BetterHermosa/betterhermosa) | - | 🟡 Work in Progress | [@ialexies](https://github.com/ialexies) |
 
 <!-- SYNC_LGU_TABLE_END -->
 
